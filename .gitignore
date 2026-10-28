@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Private resume PDFs
+*.pdf
+
+# Environment variables and secrets
+.env
+
+# Generated reports
+reports/
+ai-resume-analyzer-reports/
